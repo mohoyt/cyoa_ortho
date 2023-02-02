@@ -1,0 +1,7 @@
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+.DS_Store
