@@ -63,7 +63,7 @@
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
-        "duplicate_footprints": "warning",
+        "duplicate_footprints": "ignore",
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_type_mismatch": "ignore",
