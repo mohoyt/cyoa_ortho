@@ -4037,7 +4037,7 @@
     (property "Value" "ProMicro" (at 288.29 75.184 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Keebio Parts:ArduinoProMicro-Mini-USB" (at 314.96 157.48 90)
+    (property "Footprint" "Keebio-Parts:ArduinoProMicro" (at 314.96 157.48 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 314.96 157.48 90)
