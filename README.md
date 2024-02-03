@@ -1,6 +1,6 @@
 # CYOA Ortho
 
-![CYOA Ortho](https://i.imgur.com/i41MWu9.jpeg)
+![CYOA Ortho](img/cyoa_ortho_front.png)
 
 CYOA Ortho or Choose Your Own Adventure Ortho is a simple Pro Micro compatible ortho PCB that you can freely adjust to your preferences by snapping off rows or columns to make your perfect Ortho board. 
 
@@ -22,6 +22,7 @@ These are printed on the PCB. The build is pretty simple.
 6. Install stabilisers (if you're using them), encoder (again, if you're using one) and      switches on the rest of the board.
 7. Install in case. Enjoy.  
 
+![CYOA Ortho](img/cyoa_ortho_back.png)
 
 ## Plates
 The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make a plate for it, and probably not hard either since it is a grid. A plate for a Planck or a Preonic could also be used if you have the same size.
@@ -32,4 +33,5 @@ The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make
 ## Changelog / known issues
 - Version 0.1 had the wrong size Pro Micro footprint. This is updated in v0.2
 
+![CYOA Ortho](https://i.imgur.com/i41MWu9.jpeg)
 ![CYOA Ortho](https://i.imgur.com/0MqK27P.jpeg)
