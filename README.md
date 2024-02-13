@@ -24,6 +24,12 @@ These are printed on the PCB. The build is pretty simple.
 
 ![CYOA Ortho](img/cyoa_ortho_back.png)
 
+## Flashing instructions
+
+See the firmware folder for more information.
+
+There are example qmk files for 5x12 and 4x12 layouts for both QMK and Vial setups. These will need to be compiled using QMK or the Vial fork of Vial respectively. The `info.json` file contains all possible layouts so it should be possible to easily craft your layout using that as a starting point. 
+
 ## Plates
 The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make a plate for it, and probably not hard either since it is a grid. A plate for a Planck or a Preonic could also be used if you have the same size.
 
