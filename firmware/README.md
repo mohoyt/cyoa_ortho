@@ -1,6 +1,6 @@
 # CYOA Ortho
 
-![CYOA Ortho](img/cyoa_ortho_front.png)
+![CYOA Ortho](../img/cyoa_ortho_front.png)
 
 ## Flashing instructions
 
@@ -10,7 +10,7 @@ There are example qmk files for 5x12 and 4x12 layouts for both QMK and Vial setu
 
 ## Precompiled firmware
 
-There are a comple precompiled firmware examples here that you are welcome to use: 
+There are a couple precompiled firmware examples here that you are welcome to use: 
 
 * QMK 5x12 layout (for Pro Micro)
 * QMK 4x12 layout (for Pro Micro)
