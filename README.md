@@ -10,6 +10,10 @@ If you go with a 4 or a 5 row variant then you have the option to have 1 or 2 2u
 
 A single optional rotary encoder can be added in one of 8 positions.
 
+## Where to get one
+
+Limited PCBs are available at STHLM kb: [https://sthlmkb.com/shop/cyoa-ortho/](https://sthlmkb.com/shop/cyoa-ortho/)
+
 ![CYOA Ortho](img/cyoa_ortho_exposed.jpeg)
 
 ## Build instructions
