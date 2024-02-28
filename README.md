@@ -1,6 +1,6 @@
 # CYOA (Choose Your Own Adventure) Ortho
 
-![CYOA Ortho](img/cyoa_ortho_front.png)
+![CYOA Ortho](img/cyoa_ortho_both.jpeg)
 
 CYOA Ortho or Choose Your Own Adventure Ortho is a simple Pro Micro compatible ortho PCB that you can freely adjust to your preferences by snapping off rows or columns to make your perfect Ortho board. 
 
@@ -8,7 +8,9 @@ The board is a 5 row x 12 column board to begin with but with the perforations o
 
 If you go with a 4 or a 5 row variant then you have the option to have 1 or 2 2u keys on the bottom row too.
 
-An optional rotary encoder can be added in one of 8 positions.
+A single optional rotary encoder can be added in one of 8 positions.
+
+![CYOA Ortho](img/cyoa_ortho_exposed.jpeg)
 
 ## Build instructions
 
@@ -22,7 +24,7 @@ These are printed on the PCB. The build is pretty simple.
 6. Install stabilisers (if you're using them), encoder (again, if you're using one) and      switches on the rest of the board.
 7. Install in case. Enjoy.  
 
-![CYOA Ortho](img/cyoa_ortho_back.png)
+![CYOA Ortho](img/cyoa_ortho_back.jpeg)
 
 ## Flashing instructions
 
@@ -36,11 +38,12 @@ The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make
 
 ## Cases
 
-3d printed cases are available for CYOA Ortho. These are tray style and attach to the M2 holes on the PCB. Cases are available for all possible size variations.
+![CYOA Ortho](img/cyoa_ortho_case.jpeg)
+
+3d printed cases are available for CYOA Ortho. See here for more details: [https://www.printables.com/model/784492-cyoa-choose-your-own-adventure-ortho-keyboard-case](https://www.printables.com/model/784492-cyoa-choose-your-own-adventure-ortho-keyboard-case) These are tray style and attach to the M2 holes on the PCB. Cases are available for all possible size variations.
 
 ## Changelog / known issues
 
 - Version 0.1 had the wrong size Pro Micro footprint. This is updated in v0.2
 
-![CYOA Ortho](https://i.imgur.com/i41MWu9.jpeg)
-![CYOA Ortho](https://i.imgur.com/0MqK27P.jpeg)
+![CYOA Ortho](img/cyoa_ortho_front.jpeg)
