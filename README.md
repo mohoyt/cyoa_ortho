@@ -10,6 +10,8 @@ If you go with a 4 or a 5 row variant then you have the option to have 1 or 2 2u
 
 A single optional rotary encoder can be added in one of 8 positions.
 
+See the KLE layout here: [http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808](http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808)
+
 ## Where to get one
 
 Limited PCBs are available at STHLM kb: [https://sthlmkb.com/shop/cyoa-ortho/](https://sthlmkb.com/shop/cyoa-ortho/)
