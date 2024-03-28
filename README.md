@@ -51,5 +51,6 @@ The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make
 ## Changelog / known issues
 
 - Version 0.1 had the wrong size Pro Micro footprint. This is updated in v0.2
+- Version 0.2 had a trace not connected fully meaning that the four leftmost keys on the 4th row would not work. This is fixed in version 0.3
 
 ![CYOA Ortho](img/cyoa_ortho_front.jpeg)
