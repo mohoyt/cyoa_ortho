@@ -1,6 +1,6 @@
 # CYOA Ortho
 
-![CYOA Ortho](../img/cyoa_ortho_front.png)
+![CYOA Ortho](../../img/cyoa_ortho_front.png)
 
 ## More examples
 
