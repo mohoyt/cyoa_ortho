@@ -8,7 +8,7 @@ The board is a 5 row x 12 column board to begin with but with the perforations o
 
 If you go with a 4 or a 5 row variant then you have the option to have 1 or 2 2u keys on the bottom row too.
 
-A single optional rotary encoder can be added in one of 8 positions.
+A single optional rotary encoder can be added in one of 8 positions. Supports MX or choc (v1 only) switches. 
 
 See the KLE layout here: [http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808](http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808)
 
