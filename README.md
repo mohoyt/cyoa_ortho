@@ -8,7 +8,7 @@ The board is a 5 row x 12 column board to begin with but with the perforations o
 
 If you go with a 4 or a 5 row variant then you have the option to have 1 or 2 2u keys on the bottom row too.
 
-A single optional rotary encoder can be added in one of 8 positions. Supports MX or choc (v1 only) switches. 
+A single optional rotary encoder can be added in one of 8 positions. Supports MX or choc v1 (and v2 (since CYOA v0.4)) switches. 
 
 See the KLE layout here: [http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808](http://www.keyboard-layout-editor.com/#/gists/a172a36ed405e7bec95fd89415a75808)
 
@@ -52,5 +52,6 @@ The CYOA Ortho is a bare PCB with no plate. It is theoretically possible to make
 
 - Version 0.1 had the wrong size Pro Micro footprint. This is updated in v0.2
 - Version 0.2 had a trace not connected fully meaning that the four leftmost keys on the 4th row would not work. This is fixed in version 0.3
+- Version 0.4 now has larger centre holes for Choc v2 switches (currently untested though)
 
 ![CYOA Ortho](img/cyoa_ortho_front.jpeg)
