@@ -15,5 +15,6 @@ There are a couple precompiled firmware examples here that you are welcome to us
 * QMK 5x12 layout (for Pro Micro)
 * QMK 4x12 layout (for Pro Micro)
 * Vial 5x12 layout (for Pro Micro)
+* Vial 5x12 layout (for RP2040 Helios board)
 * Vial 4x12 layout (for Pro Micro)
 * Vial 4x12 layout (for RP2040 Helios board)
